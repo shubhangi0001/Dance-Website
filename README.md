@@ -1,5 +1,3 @@
-# Dance-Website
-
 # Grace Steps - Responsive Dance Website
 
 Grace Steps is a vibrant and dynamic web application dedicated to the art of dance, offering an aesthetically pleasing, user-friendly interface. Features include dance tutorials, instructor profiles, class schedules, an event calendar, a photo and video gallery, booking slots, contact details, and a fully responsive design for all devices.
@@ -48,6 +46,7 @@ Created this project as a part of my academic endeavor to create a dynamic dance
    git clone https://github.com/shubhangi0001/Dance-Website.git
 
 ## License
+This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.md file for details.
 
 ## Contact
 [LinkedIn ](https://www.linkedin.com/in/shubhangi23/)
