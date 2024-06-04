@@ -13,9 +13,7 @@ Grace Steps is a vibrant and dynamic web application dedicated to the art of dan
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ## Description
@@ -52,8 +50,7 @@ Created this project as a part of my academic endeavor to create a dynamic dance
 
 ## Screenshots
 
-![]("D:\Extra\GitHub\Portfolio\shubhangi0001.github.io-main\shubhangi0001.github.io-main\projects\dance\screenshots\grace_step1.png")
+## License
 
-
-
-
+## Contact
+[LinkedIn ](https://www.linkedin.com/in/shubhangi23/)
