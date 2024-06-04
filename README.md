@@ -4,14 +4,15 @@
 
 Grace Steps is a vibrant and dynamic web application dedicated to the art of dance, offering an aesthetically pleasing, user-friendly interface. Features include dance tutorials, instructor profiles, class schedules, an event calendar, a photo and video gallery, booking slots, contact details, and a fully responsive design for all devices.
 
+[Grace Steps](https://shubhangi0001.github.io/projects/dance/)
+
 ## Table of Contents
 
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Live Website](#live-website)
-- [Demo Screenshots](#demo-screenshots)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -47,7 +48,12 @@ Created this project as a part of my academic endeavor to create a dynamic dance
 ## Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/shubhangi0001/grace-steps.git
+   git clone https://github.com/shubhangi0001/Dance-Website.git
+
+## Screenshots
+
+![]("D:\Extra\GitHub\Portfolio\shubhangi0001.github.io-main\shubhangi0001.github.io-main\projects\dance\screenshots\grace_step1.png")
+
 
 
 
